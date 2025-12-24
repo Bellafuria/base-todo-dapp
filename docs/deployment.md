@@ -6,3 +6,4 @@ Steps:
 1. Write TodoList.sol in Remix
 2. Compile with Solidity 0.8.x
 3. Deploy via Injected Provider (MetaMask)
+4. Add 25+ tasks for onchain activity
