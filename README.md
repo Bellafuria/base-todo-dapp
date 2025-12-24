@@ -15,3 +15,5 @@ Simple decentralized Todo List built and deployed on Base mainnet during Decembe
 ## Progress
 - Day 1 (Dec 23): Contract written, deployed, 26 txns (addTask)
 - Day 2 (Dec 24): Adding frontend integration
+
+Built with Remix IDE. #BuildOnBase #BaseBuilders
