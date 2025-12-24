@@ -11,3 +11,7 @@ Simple decentralized Todo List built and deployed on Base mainnet during Decembe
 - Add tasks onchain
 - Toggle completed
 - View tasks
+
+## Progress
+- Day 1 (Dec 23): Contract written, deployed, 26 txns (addTask)
+- Day 2 (Dec 24): Adding frontend integration
