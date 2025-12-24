@@ -1,2 +1,3 @@
-# base-todo-dapp
-Simple Todo List DApp built on Base mainnet #BuildOnBase
+# Onchain Todo List DApp on Base
+
+Simple decentralized Todo List built and deployed on Base mainnet during December 2025 Builders campaign. #BuildOnBase
