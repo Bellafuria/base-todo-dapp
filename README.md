@@ -15,5 +15,12 @@ Simple decentralized Todo List built and deployed on Base mainnet during Decembe
 ## Progress
 - Day 1 (Dec 23): Contract written, deployed, 26 txns (addTask)
 - Day 2 (Dec 24): Adding frontend integration
+  
+## Full Frontend
+- React + Vite + ethers.js
+- Features: MetaMask connect, view tasks, add tasks onchain
+- Repo: https://github.com/Bellafuria/base-todo-dapp-frontend
+- Local run: `npm install` → `npm run dev`
 
+  
 Built with Remix IDE. #BuildOnBase #BaseBuilders
