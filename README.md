@@ -22,9 +22,13 @@ Simple decentralized Todo List built and deployed on Base mainnet during Decembe
 - Repo: https://github.com/Bellafuria/base-todo-dapp-frontend
 - Local run: `npm install` → `npm run dev`
 
-## Screenshots
+## Screenshot
 
-Todo List DApp Frontend
+**Todo List DApp Frontend:**
+
+![Todo List DApp Frontend – подключён кошелёк и готов к загрузке задач](https://raw.githubusercontent.com/Bellafuria/base-bellafuria-portfolio/main/images/TODO%20List%20frontend.jpg)
+
+
 
   
 Built with Remix IDE. #BuildOnBase #BaseBuilders
