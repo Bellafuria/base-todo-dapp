@@ -29,7 +29,7 @@ Simple decentralized Todo List built and deployed on Base mainnet during Decembe
 ![Todo List DApp Frontend – подключён кошелёк и готов к загрузке задач](https://raw.githubusercontent.com/Bellafuria/base-bellafuria-portfolio/main/images/TODO%20List%20frontend.jpg)
 
 **Todo List DApp Basecsan:**
-![Basescan screenshot of Todo List contract showing multiple Add Task transactions](images/todo-basescan-transactions.jpg "Deployed TodoList contract on Base mainnet with 26+ Add Task transactions from bellafuria.base.eth")
+![Basescan screenshot of Todo List contract showing multiple Add Task transactions](https://raw.githubusercontent.com/Bellafuria/base-bellafuria-portfolio/main/images/todo-basescan-transactions.jpg)
 
 
   
